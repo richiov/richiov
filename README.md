@@ -27,11 +27,11 @@ Mid Developer como hobbie, y todo lo que quieras pensar 😳​
 
 🤔 Busco ayuda con Java
 
-💬 Hazme cualquier pregunta hacerca de Discord Bots
+💬 Hazme cualquier pregunta acerca de Discord Bots
 
 📫 Contacto: [@richi_ov](https://twitter.com/richi_ov)
 
-😄 Tambien me conocen como mango y rick.
+😄 Tambien me conocen como mango o rick.
 
 ⚡️ En busca de nuevos proyectos
 
