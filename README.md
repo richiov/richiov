@@ -14,6 +14,9 @@ Mid Developer como hobbie, y todo lo que quieras pensar 😳​
 
 > Alojamiento para tu servidor de minecraft.
 
+- djs-ia
+
+> Entrena a tu bot, para que pueda tener inteligencia artificial
 
 ## Sobre Mi :3
 👩‍💻 Actualmente trabajando en [Mythocraft Network](https://discord.mythocraft.com)
